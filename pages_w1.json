@@ -1,0 +1,306 @@
+[
+  {
+    "id": 1,
+    "title": "営業店DX推進レポート",
+    "url": "https://kb.techzeron-bank.example/dx-report",
+    "description": "窓口業務のペーパーレス化で事務時間を30%削減したDXプロジェクトの記録",
+    "keywords": [
+      "DX",
+      "営業店",
+      "業務効率"
+    ],
+    "author": "田中太郎",
+    "created_at": "2025-01-15",
+    "category": "事例"
+  },
+  {
+    "id": 2,
+    "title": "住宅ローン審査AI導入の検討",
+    "url": "https://kb.techzeron-bank.example/ai-screening",
+    "description": "AI事前審査で融資業務をDX化する企画提案",
+    "keywords": [
+      "AI",
+      "融資",
+      "審査"
+    ],
+    "author": "鈴木花子",
+    "created_at": "2025-01-16",
+    "category": "企画"
+  },
+  {
+    "id": 3,
+    "title": "法人融資 稟議書の書き方ガイド",
+    "url": "https://kb.techzeron-bank.example/ringi-guide",
+    "description": "法人融資の稟議書作成の標準手順とチェックリスト",
+    "keywords": [
+      "融資",
+      "稟議",
+      "法人"
+    ],
+    "author": "山本一郎",
+    "created_at": "2025-01-17",
+    "category": "業務マニュアル"
+  },
+  {
+    "id": 4,
+    "title": "AIチャットボットによる照会対応DX",
+    "url": "https://kb.techzeron-bank.example/chatbot-dx",
+    "description": "コールセンターにAIチャットボットを導入し照会対応を効率化したDX事例",
+    "keywords": [
+      "AI",
+      "DX",
+      "コールセンター"
+    ],
+    "author": "佐藤健太",
+    "created_at": "2025-01-18",
+    "category": "事例"
+  },
+  {
+    "id": 5,
+    "title": "全店DX推進ロードマップ2026",
+    "url": "https://kb.techzeron-bank.example/dx-roadmap",
+    "description": "勘定系刷新とデジタルチャネル強化を柱とする全店DX計画の概要",
+    "keywords": [
+      "DX",
+      "経営企画",
+      "デジタル"
+    ],
+    "author": "中村美咲",
+    "created_at": "2025-01-19",
+    "category": "企画"
+  },
+  {
+    "id": 6,
+    "title": "Gakky Profile V2",
+    "url": "https://joyful-tulumba-ce950d.netlify.app/",
+    "description": "板垣隆次の自己紹介",
+    "keywords": [
+      "Gakky",
+      "DIY",
+      "事業開発",
+      "事業推進"
+    ],
+    "author": "板垣 隆次",
+    "created_at": "2026-09-14",
+    "category": "共有"
+  },
+  {
+    "id": 7,
+    "title": "鹿島アントラーズ　オフィシャルサイト",
+    "url": "https://joyful-tulumba-ce950d.netlify.app/",
+    "description": "鹿島アントラーズのオフィシャルサイト",
+    "keywords": [
+      "鹿島",
+      "サッカー",
+      "J1",
+      "フットボール"
+    ],
+    "author": "しかお",
+    "created_at": "2026-09-14",
+    "category": "企画"
+  },
+  {
+    "id": 8,
+    "title": "ベガルタ仙台オフィシャルサイト",
+    "url": "https://www.vegalta.co.jp/",
+    "description": "ベガルタ仙台オフィシャルサイト",
+    "keywords": [
+      "サッカー",
+      "仙台",
+      "J2",
+      "フットボール"
+    ],
+    "author": "ベガッ太",
+    "created_at": "2026-09-14",
+    "category": "企画"
+  },
+  {
+    "id": 9,
+    "title": "Yahoo!JAPAN",
+    "url": "https://www.yahoo.co.jp/",
+    "description": "Yahoo!JAPANのポータルサイトトップ",
+    "keywords": [
+      "Yahoo",
+      "Paypay",
+      "検索",
+      "Google"
+    ],
+    "author": "Yahoo",
+    "created_at": "2026-09-14",
+    "category": "共有"
+  },
+  {
+    "id": 10,
+    "title": "Googleマップ",
+    "url": "https://www.google.co.jp/maps/?q=",
+    "description": "Googleマップのトップ",
+    "keywords": [
+      "Google",
+      "検索",
+      "地図"
+    ],
+    "author": "Google",
+    "created_at": "2026-09-14",
+    "category": "共有"
+  },
+  {
+    "id": 11,
+    "title": "Yahoo!ファイナンス",
+    "url": "https://finance.yahoo.co.jp/",
+    "description": "株価情報を見るYahoo!ファイナンス",
+    "keywords": [
+      "Yahoo",
+      "株価",
+      "ファイナンス"
+    ],
+    "author": "Yahoo",
+    "created_at": "2026-09-14",
+    "category": "共有"
+  },
+  {
+    "id": 12,
+    "title": "メルカリ",
+    "url": "https://jp.mercari.com/?srsltid=AfmBOoozxlLyfidCr8CKEaUNh8H8YPLKsP33KVF3A7r_4pw0slYI5deT",
+    "description": "日本最大級のフリマサイト",
+    "keywords": [
+      "フリマ",
+      "C2C",
+      "ヤフオク"
+    ],
+    "author": "mercari",
+    "created_at": "2026-09-14",
+    "category": "共有"
+  },
+  {
+    "id": 13,
+    "title": "DAZN",
+    "url": "https://www.dazn.com/ja-JP/welcome?gclid=CjwKCAjw0N3nBRBvEiwAHMwvNrR-xfBoA4KzLW2LDYkan_4u7hSvH0PLSF1n2HXhLil8FJoHUE5F5BoCyUsQAvD_BwE&gclsrc=aw.ds",
+    "description": "スポーツをメインとしたサブスク",
+    "keywords": [
+      "サッカー",
+      "ワールドカップ",
+      "鹿島アントラーズ",
+      "ベガルタ仙台"
+    ],
+    "author": "DAZN",
+    "created_at": "2026-09-14",
+    "category": "共有"
+  },
+  {
+    "id": 14,
+    "title": "Netflix",
+    "url": "https://www.netflix.com/jp/login?nextpage=https%3A%2F%2Fwww.netflix.com%2Fbrowse&serverState=BgjUv%2BvcAxL%2BAQ2PsjLoLDP8D9If8i21dySmikTIPZKhxGwc4TzM96nkMhu2DIYzUiTPf5kM0OVKekFBTtr9mykD9q8Z2LChchcq21Wy8BCVmjqSvX2hce3aDHJelbn3BlfKSdM03clroqpRnGdMioWXlqvTmmYaWmUA%2BfnyOpvxVSdpVfRSMTgW3hbNg6hiWba6Zf4lDg39PizmhJR6O55vC%2Bwx7dtaSJgPAsqox%2BZO8ZkWRX3NCpvYULyZbPpNCuUpCGlkJIVH7KYDp1cBeYfgKbUqwWgTiNdXa4xko1WSwV7Yky7hV2LtGE0HLdNJ6tq610abd03FmRlCccGNFZVD3oKa%2BShIGAYiDgoMXfU4zcGeBBLV0yf4",
+    "description": "世界最大の動画プラットフォーム",
+    "keywords": [
+      "サブスク",
+      "スポーツ",
+      "サッカー"
+    ],
+    "author": "Netflix Japan",
+    "created_at": "2026-09-14",
+    "category": "共有"
+  },
+  {
+    "id": 15,
+    "title": "ZOZOTOWN",
+    "url": "https://zozo.jp/",
+    "description": "日本最大級のファッション通販サイト",
+    "keywords": [
+      "ZOZO",
+      "ファッション",
+      "通販",
+      "オンライン"
+    ],
+    "author": "ZOZO",
+    "created_at": "2026-09-14",
+    "category": "共有"
+  },
+  {
+    "id": 16,
+    "title": "Yahoo!乗り換え案内",
+    "url": "https://transit.yahoo.co.jp/",
+    "description": "Yahoo!Japanが提供する乗り換え案内",
+    "keywords": [
+      "Yahoo!",
+      "乗り換え",
+      "電車"
+    ],
+    "author": "Yahoo!ジャパン",
+    "created_at": "2026-09-14",
+    "category": "事例"
+  },
+  {
+    "id": 17,
+    "title": "ユナイテッドアローズ公式通販",
+    "url": "https://store.united-arrows.co.jp/?srsltid=AfmBOoq_iC10S_yGxGcHIcuydrffunOwQGwd6AqMnZ7EIPtGk7Qf9tip",
+    "description": "ユナイテッドアローズが展開する公式通販サイト",
+    "keywords": [
+      "ファッション",
+      "UA",
+      "アパレル御三家",
+      "EC"
+    ],
+    "author": "ユナイテッドアローズ",
+    "created_at": "2026-09-14",
+    "category": "共有"
+  },
+  {
+    "id": 18,
+    "title": "BEAM公式通販",
+    "url": "https://store.united-arrows.co.jp/?srsltid=AfmBOoq_iC10S_yGxGcHIcuydrffunOwQGwd6AqMnZ7EIPtGk7Qf9tip",
+    "description": "BEAMSが運営する公式通販サイト",
+    "keywords": [
+      "BEAMS",
+      "EC",
+      "ファッション",
+      "アパレル御三家"
+    ],
+    "author": "BEAMS",
+    "created_at": "2026-09-14",
+    "category": "共有"
+  },
+  {
+    "id": 19,
+    "title": "SHIPS公式通販サイト",
+    "url": "https://www.shipsltd.co.jp/?srsltid=AfmBOoq3AqXR3624aY-Uc5nYvUF-o-Yb6vmobY-vMBPZ_O0Tcr72n0L7",
+    "description": "SHIPSが運営する公式通販サイト",
+    "keywords": [
+      "SHIPS",
+      "ファッション",
+      "EC",
+      "アパレル御三家"
+    ],
+    "author": "SHIPS",
+    "created_at": "2026-09-14",
+    "category": "共有"
+  },
+  {
+    "id": 20,
+    "title": "CHIKADEE&HOME",
+    "url": "https://chickadee.jp/",
+    "description": "仙台を拠点にAlvar Aaltoなど、北欧のVintage家具を扱うChikadee&Homeの公式サイト",
+    "keywords": [
+      "Chikadee&Home",
+      "チッカディーアンドホーム",
+      "北欧家具",
+      "vintage"
+    ],
+    "author": "Chikadee&Home",
+    "created_at": "2026-09-14",
+    "category": "事例"
+  },
+  {
+    "id": 21,
+    "title": "FLYMEe",
+    "url": "https://flymee.jp/?gad_source=1&gad_campaignid=19214539824&gbraid=0AAAAADSHV-03B5_2sgx3-UYcdRAyF3-PO&gclid=CjwKCAjwtp7VBhBjEiwAJfpV-ylEAxcfaGuNtQI_QbFnJjtWm3P7L9gIwwa5Fc9AWO6YdsgcQovnzhoCuKIQAvD_BwE",
+    "description": "有名なデザイナーズ家具を多数扱うFLYMEeの公式サイト",
+    "keywords": [
+      "FLYMEe",
+      "北欧家具",
+      "デザイナーズ"
+    ],
+    "author": "FLYMEe",
+    "created_at": "2026-09-14",
+    "category": "共有"
+  }
+]
